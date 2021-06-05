@@ -1,0 +1,2 @@
+D:\proyectos\cc++\visualStudio\alterarZuma\Debug\alterarZuma.exe
+D:\proyectos\cc++\visualStudio\alterarZuma\Debug\alterarZuma.pdb

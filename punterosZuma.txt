@@ -1,0 +1,16 @@
+
+******************************
+survival rabbit 
+0E00624C
+0E006248
+***************************
+aventura - puntuador 
+0CFBD240
+0CFBD244
+aventura - vidas 
+0CFBD248
+
+
+
+
+
